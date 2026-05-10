@@ -32,7 +32,7 @@ available here
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+https://portifolio-rose-psi-43.vercel.app/
 
 ---
 
